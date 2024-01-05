@@ -11,7 +11,7 @@ import threading
 import os
 bot = commands.Bot(command_prefix='!',intents= discord.Intents.all())
 
-tts("e8deeb147d7ae7a7dacb88bf15e78e0b",req_text="Hi")
+
 files = os.listdir("out/") 
 
         # Iterate through the files and delete them
