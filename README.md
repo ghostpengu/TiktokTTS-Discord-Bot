@@ -20,3 +20,4 @@ To change background video replace ```1.mp4``` with your own.
 ## Commands
 ```!generate``` - generates video if the video is smaller than 25MB it will upload to discord as video
 ```!generate_audio``` - generates audio file.
+You can try it on my discord server : [Discord Server](https://discord.gg/JFSahvtZCX)
